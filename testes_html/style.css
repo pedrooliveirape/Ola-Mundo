@@ -1,0 +1,20 @@
+.pagina {
+    height: 600px;
+    width: auto;
+    background-color: aquamarine;
+}
+
+.header {
+    height: auto;
+    width: auto;
+    background: gray;
+    display: grid;
+}
+
+.title-header {
+    padding: 10px;
+}
+
+menu {
+    background: white;
+}
